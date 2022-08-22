@@ -1,0 +1,40 @@
+header {
+    width: 700px;
+    margin: auto;
+}
+
+img {
+    width: 700px;
+}
+
+.titulo {
+    width: 235px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.titulo  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    background: #cccccc;
+    text-align: center;
+}
+
+main {
+    width: 700px; 
+    margin: auto;  
+}
+
+h1 {
+    box-shadow: 1px 1px 1px 1px;
+    background: #cccccc;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+}
