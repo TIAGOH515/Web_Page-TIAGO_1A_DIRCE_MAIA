@@ -1,7 +1,10 @@
 header {
 	background: #BBBBBB;
 }
-
+nav{
+	position:absolute;
+	top: 110;
+	right; 0; auto;
 
 nav li {
 	display:inline;
