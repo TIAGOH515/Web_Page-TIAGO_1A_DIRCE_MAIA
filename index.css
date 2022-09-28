@@ -28,8 +28,18 @@ nav a {
 	text-decoration: none;
 }
 
+.index{
+width: 940px;
+margin: 0 auto;
+padding: 50px 0;	
+
 img {
-	width: 300px;
+width: 300px;
+	
 }
-.produtos.li
+.index.li {
 display: inline-block
+text-align: center;
+width: 30%;
+vetical-align: top;	
+}
