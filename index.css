@@ -1,47 +1,90 @@
-header {
-	background: #BBBBBB;
-	padding: 20px 0;
+header{
+  border: 3px solid #000000;
+  background: #CCCCCC;
 }
 
-.caixa
-    position: relative:
-    width; 940px;
-    margin: 0 auto;
+
+.menu{
+  max-width: 100%;
+  min-width: 320px;
+  width: 700px;
+  height: 300px;
+  margin: auto;
+  position: relative;
 }
 
 nav{
-	position:absolute;
-	top: 110px;
-	right; 0;
+  position: absolute;
+  right: 0;
+  top: 150px;
+  padding-right: 50px;
 }
 
-nav li {
-	display:inline;
-	margin: 0 0 0 15px;
+nav li{
+  display: inline;
+  padding-left: 10px;
+  position: relative;
 }
 
-nav a {
-	text-transform: uppercase;
-	color;000000:
-	font weight: bold;
-	font-size: 22px;
-	text-decoration: none;
+nav a{
+  font-size: 20px;
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 1px 1px 1px 1px;
 }
 
-.index{
-width: 940px;
-margin: 0 auto;
-padding: 50px 0;	
-
-img {
-width: 190px;
-	
+nav a:hover{
+  color: blue;
+  text-decoration: underline;
+  font-size: 25px;
 }
-	
-.index.li {
-display: inline-block
-text-align: center;
-width: 30%;
-vetical-align: top;
-	
+
+#logo{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 50px;
+}
+
+.conteudodapagina{
+  max-width: 100%;
+  min-width: 320px;
+  width: 750px;
+  height: 600px;
+  position: relative;
+  margin: auto;
+  padding: 50px 0;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  
+}
+
+h1 > strong {
+  box-shadow: 3px 3px 3px 3px;
+}
+
+
+#banner{
+  max-width: 100%;
+  width: 750px;
+  height: 375px;
+  position: absolute;
+  margin-top: 50px;
+  box-shadow: 2px 2px 2px 2px;
+}
+
+footer {
+  background: #CCCCCC;
+  text-align: center;
+}
+
+.logorodape {
+    width: 60px;
+    height: 60px;
+    padding: 10px  0;
 }
