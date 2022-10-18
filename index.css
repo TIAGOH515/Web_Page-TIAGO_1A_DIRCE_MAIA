@@ -45,13 +45,18 @@ nav a{
   .index {
     width: 940px;
     margin: 0 auto;
-    padding
+    padding: 50px 0;
 }
 
 nav a:hover{
   color: blue;
   text-decoration: underline;
   font-size: 25px;
+}
+
+.index h2{
+font-size: 30px;
+  font-weight:bold;
 }
 
 #logo{
