@@ -35,6 +35,19 @@ nav a{
   box-shadow: 1px 1px 1px 1px;
 }
 
+.index li {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+}
+
+  .index {
+    width: 940px;
+    margin: 0 auto;
+    padding
+}
+
 nav a:hover{
   color: blue;
   text-decoration: underline;
