@@ -3,6 +3,9 @@ header{
   background: #CCCCCC;
 }
 
+.img-principal {
+    width: 300px;
+}
 
 .menu{
   max-width: 100%;
