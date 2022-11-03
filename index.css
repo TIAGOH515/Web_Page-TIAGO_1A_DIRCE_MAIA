@@ -1,63 +1,238 @@
-header {
-    width: 980px;
-    margin: auto;
+header{
+
+  border: 3px solid #000000;
+
+  background: #CCCCCC;
+
 }
 
-.caixa {
-    width: 800px;
-    margin: auto;
-    position: relative;
-    border: 3px solid black;
-    border-radius: 20px;
-}
 
-#banner {
+
+
+.img-principal {
+
     width: 300px;
-}
 
-nav {
-    display: inline-block;
-    position: absolute;
-    top: 100px;
-    right: 20px;
 }
 
 
-nav ul li {
-    display: inline;
-    padding: 5px;
+
+
+.menu{
+
+  max-width: 100%;
+
+  min-width: 320px;
+
+  width: 700px;
+
+  height: 300px;
+
+  margin: auto;
+
+  position: relative;
+
 }
 
-nav ul li a {
-    text-decoration: none;
-    font-size: 20px;
-    color: black;
-    border: 2px solid black;
-    padding: 5px;
-    border-radius: 20px;
-    font-weight: bold;
-    text-transform: uppercase;
+
+
+
+nav{
+
+  position: absolute;
+
+  right: 0;
+
+  top: 150px;
+
+  padding-right: 50px;
+
 }
 
-nav ul li a:hover {
-    transition: 0.5s;
-    text-decoration: underline;
-    font-size: 20px;
-    color: black;
-    border: 2px solid black;
-    padding: 5px;
-    border-radius: 3px;
-    font-weight: bold;
-    text-transform: uppercase;
+
+
+
+nav li{
+
+  display: inline;
+
+  padding-left: 10px;
+
+  position: relative;
+
 }
 
-main {
-    width: 800px;
-    margin: auto;
+
+
+
+nav a{
+
+  font-size: 20px;
+
+  text-transform: uppercase;
+
+  color: black;
+
+  font-weight: bold;
+
+  text-decoration: none;
+
+  box-shadow: 1px 1px 1px 1px;
+
 }
 
-#bandeira {
-    width: 100%;
-    margin-top: 100px;
+
+
+
+.index li {
+
+  display: inline-block;
+
+  text-align: center;
+
+  width: 30%;
+
+  vertical-align: top;
+
 }
-Footer
+
+
+
+
+  .index {
+
+    width: 940px;
+
+    margin: 0 auto;
+
+    padding: 50px 0;
+
+}
+
+
+
+
+nav a:hover{
+
+  color: blue;
+
+  text-decoration: underline;
+
+  font-size: 25px;
+
+}
+
+
+
+
+.index h2{
+
+font-size: 30px;
+
+  font-weight:bold;
+
+}
+
+
+
+
+#logo{
+
+  width: 200px;
+
+  height: 200px;
+
+  position: relative;
+
+  top: 50px;
+
+}
+
+
+
+
+.conteudodapagina{
+
+  max-width: 100%;
+
+  min-width: 320px;
+
+  width: 750px;
+
+  height: 600px;
+
+  position: relative;
+
+  margin: auto;
+
+  padding: 50px 0;
+
+}
+
+
+
+
+h1{
+
+  font-size: 50px;
+
+  text-align: center;
+
+  
+
+}
+
+
+
+
+h1 > strong {
+
+  box-shadow: 3px 3px 3px 3px;
+
+}
+
+
+
+
+
+
+
+#banner{
+
+  max-width: 100%;
+
+  width: 750px;
+
+  height: 375px;
+
+  position: absolute;
+
+  margin-top: 50px;
+
+  box-shadow: 2px 2px 2px 2px;
+
+}
+
+
+
+
+footer {
+
+  background: #CCCCCC;
+
+  text-align: center;
+
+}
+
+
+
+
+.logorodape {
+
+    width: 60px;
+
+    height: 60px;
+
+    padding: 10px  0;
+
+}
