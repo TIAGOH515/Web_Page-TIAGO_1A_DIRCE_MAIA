@@ -17,7 +17,7 @@ header {
 
 nav {
     display: inline-block;
-    position: absolute;
+    position: sticky;
     top: 100px;
     right: 20px;
 }
