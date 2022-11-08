@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <title>Animes</title>
+    <title>JOGOS</title>
 </head>
 <body>
     <header>
@@ -22,19 +22,12 @@
         <nav class="menu2">
             <ul>
                 <li class="nome1"><h2>Categorias</h2></li>
-                <li><a href="shonem/index.html"><p>Shonen</p></a></li>
-                <li><a href=""><p>Shoujo</p></a></li>
-                <li><a href=""><p>Seinen</p></a></li>
-                <li><a href=""><p>Josei</p></a></li>
-                <li><a href=""><p>Ecchi</p></a></li>
-                <li><a href=""><p>Harem</p></a></li>
-                <li><a href=""><p>Isekai</p></a></li>
-                <li><a href=""><p>Mecha</p></a></li>
-                <li><a href=""><p>Slice of Life</p></a></li>
-                <li><a href=""><p>Kodomomuke</p></a></li>
-                <li><a href=""><p>Iyashikei</p></a></li>
-                <li><a href=""><p>Harem</p></a></li>
-                <li><a href="hentai.html"><p>Hentai</p></a></li>
+                <li><a href="shonem/index.html"><p>RPG</p></a></li>
+                <li><a href=""><p>açao</p></a></li>
+                <li><a href=""><p>tabuleiro</p></a></li>
+                <li><a href=""><p>cartas</p></a></li>
+                <li><a href=""><p>Mundo berto</p></a></li>
+                <li><a href="hentai.html"><p>QUER SENTIR TESAO?</p></a></li>
 
             </ul>
         </nav>
