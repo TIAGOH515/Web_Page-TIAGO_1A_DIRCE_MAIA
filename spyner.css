@@ -1,0 +1,129 @@
+body {
+    width: 980px;
+    margin: auto;
+    background: url(imagens/17167.jpg)
+}
+
+header {
+    width: 980px;
+    margin: auto;
+}
+
+.menu2 {
+    width: 150px;
+    height: 1300px;
+    position: absolute;
+    left: 0;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.nome1 {
+    position: absolute;
+    left: 10px;
+}
+
+.menu2 h2 {
+    border: 2px solid grey;
+}
+
+.menu2 p {
+    position: relative;
+    left: 0px;
+    top: 40px;
+}
+
+.menu2 a {
+    text-decoration: underline;
+    color: black;
+}
+
+.menu3 {
+    width: 150px;
+    height: 1300px;
+    position: absolute;
+    right: 0;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.nome {
+    position: absolute;
+    left: 30px;
+}
+
+.menu3 h2 {
+    border: 2px solid grey;
+}
+
+.menu3 p {
+    position: relative;
+    left: 0px;
+    top: 40px;
+}
+
+.menu3 a {
+    text-decoration: underline;
+    color: black; 
+}
+
+.menu {
+    width: 420px;
+    height: 60px;
+    margin: auto;
+    color: blue;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+ul{
+    position: absolute;
+}
+
+li{
+    display: inline;
+    margin: 5px;
+}
+
+.linkp {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 3px;
+}
+
+.linkp:hover {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+    box-shadow: 1px 1px 1px 1px;
+    background: yellow;
+    transition: 0.7777777777s;
+}
+
+main {
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font: 40px;
+    background: grey;
+}
+
+.img-princi {
+    width: 500px;
+    margin: auto;
+}
+
+img {
+    width: 500px;
+}
