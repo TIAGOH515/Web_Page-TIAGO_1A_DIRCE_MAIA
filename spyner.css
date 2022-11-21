@@ -10,9 +10,9 @@ header {
 }
 
 .menu2 {
-    width: 150px;
-    height: 1300px;
-    position: absolute;
+    width: 300px;
+    height: 980px;
+    position: fixed;
     left: 0;
     border: 2px solid black;
     margin-top: 10px;
@@ -41,9 +41,9 @@ header {
 }
 
 .menu3 {
-    width: 150px;
-    height: 1300px;
-    position: absolute;
+    width: 300px;
+    height: 980px;
+    position: fixed;
     right: 0;
     border: 2px solid black;
     margin-top: 10px;
