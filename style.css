@@ -27,7 +27,8 @@ img-principal2 {
     background: #cccccc;
     text-align: center;
 }
-
+h2 {
+    text-align:center;
 main {
     width: 700px; 
     margin: auto;  
